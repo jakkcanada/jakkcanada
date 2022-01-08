@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakkcanada
-- 👀 I’m interested in Python
+- 👀 I’m interested in Python, Blockchain, Smart Contract, Ethereum, and Decentralized Application.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a smaart contract.
+- 💞️ I’m looking to collaborate on a smart contract.
 - 📫 How to reach me @ jkanhara@gmail.com
 
 
